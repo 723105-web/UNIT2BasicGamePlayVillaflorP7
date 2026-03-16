@@ -2603,7 +2603,7 @@ GameObject:
   - component: {fileID: -9035865856636641417}
   m_Layer: 0
   m_Name: Dog_Labrador_01
-  m_TagString: Untagged
+  m_TagString: Animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2694,7 +2694,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 065bb927ccaf31845829e2dddd5503a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 8
 --- !u!114 &4114009505257001307
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -22,7 +22,7 @@ public class DestroyOutOfBounds : MonoBehaviour
         }
         else if (transform.position.z < lowerBound)
         {
-            gameManager .AddLives(-1);
+            gameManager.AddLives(-1);
             Destroy(gameObject);
 
         }
